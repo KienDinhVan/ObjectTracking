@@ -9,3 +9,6 @@ Project for CV course
 
 ![image](https://github.com/user-attachments/assets/40e98fb6-7d84-4926-b591-36562e0b7838)
 
+## ByteTrack pipeline
+
+![image](https://github.com/user-attachments/assets/db57aad3-1d8b-4859-b399-4326922a5401)
